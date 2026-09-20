@@ -6,4 +6,12 @@ public class Computer {
         this.name = name;
         this.memory_size = memory_size;
     }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public String getName() {
+        return name;
+    }
 }
