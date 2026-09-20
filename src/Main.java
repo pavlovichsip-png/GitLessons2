@@ -9,5 +9,6 @@ public class Main {
         saveComputer.save(computer);
         LoadComputer loadComputer = new LoadComputer();
         loadComputer.load(computer);
+        System.out.println("jfjffj");
     }
 }
