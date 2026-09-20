@@ -5,5 +5,7 @@ public class Main {
         omenHP.setName("Acer", 8_000);
         System.out.println(omenHP.memory_size);
         System.out.println(omenHP.name);
+        SaveComputer saveComputer = new SaveComputer();
+        saveComputer.save(computer);
     }
 }
