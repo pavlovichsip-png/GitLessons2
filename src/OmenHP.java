@@ -7,4 +7,9 @@ public class OmenHP extends Computer{
         super.setName(name);
         this.memory_size = memory_size;
     }
+
+    @Override
+    public String getName() {
+        return super.getName();
+    }
 }
