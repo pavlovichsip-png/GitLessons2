@@ -7,5 +7,7 @@ public class Main {
         System.out.println(omenHP.name);
         SaveComputer saveComputer = new SaveComputer();
         saveComputer.save(computer);
+        LoadComputer loadComputer = new LoadComputer();
+        loadComputer.load(computer);
     }
 }
