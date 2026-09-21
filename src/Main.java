@@ -10,5 +10,6 @@ public class Main {
         LoadComputer loadComputer = new LoadComputer();
         loadComputer.load(computer);
         System.out.println("jfjffj");
+        System.out.println("hfhfhfhf");
     }
 }
