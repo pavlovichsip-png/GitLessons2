@@ -1,4 +1,4 @@
-public class Rect implements Inter{
+public class Rect implements IAll{
     @Override
     public void drawCircle() {
         System.out.println("Расовать круг");
