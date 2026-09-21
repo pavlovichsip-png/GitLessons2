@@ -11,5 +11,12 @@ public class Main {
         loadComputer.load(computer);
         System.out.println("jfjffj");
         System.out.println("hfhfhfhf");
+        System.out.println();
+        System.out.println();
+        System.out.println();
+        System.out.println();
+        System.out.println();
+        System.out.println();
+        System.out.println();
     }
 }
